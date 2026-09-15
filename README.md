@@ -18,3 +18,9 @@ Este repositório NÃO contém:
 - Credenciais de banco de dados (`wp-config.php`).
 - Chaves de API de produção dos gateways de pagamento.
 - Arquivos de mídia (uploads).
+
+## Dependências do Sistema
+
+Para o funcionamento correto desta loja virtual, é obrigatória a instalação e ativação dos seguintes plugins no WordPress:
+
+1.  **WooCommerce** (Base da loja, carrinho e gestão de pedidos).
