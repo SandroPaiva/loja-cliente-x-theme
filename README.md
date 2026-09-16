@@ -24,3 +24,11 @@ Este repositório NÃO contém:
 Para o funcionamento correto desta loja virtual, é obrigatória a instalação e ativação dos seguintes plugins no WordPress:
 
 1.  **WooCommerce** (Base da loja, carrinho e gestão de pedidos).
+
+...
+## Status da Implantação
+
+- [x] Ambiente Ubuntu (Apache/MySQL) configurado.
+- [x] WordPress instalado.
+- [x] Repositório Git isolado no Tema Filho.
+- [x] WooCommerce instalado, ativado e configuração básica realizada (endereço, moeda).
